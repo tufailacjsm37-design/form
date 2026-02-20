@@ -5,7 +5,7 @@
   ],
   "routes": [
     { "src": "/majeed", "dest": "/majeed.js" },
-    { "src": "/tufail", "dest": "/tufail.js" },
+    { "src": "/tufique", "dest": "/tufique.js" },
     { "src": "/tufaill", "dest": "/tufaill.js" },
     { "src": "/Dilbar", "dest": "/Dilbar.js" },
     { "src": "/rizwan", "dest": "/rizwan.js" },
