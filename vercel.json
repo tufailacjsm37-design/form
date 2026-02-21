@@ -10,7 +10,7 @@
     { "src": "/ssg", "dest": "/ssg.js" },
     { "src": "/sohail", "dest": "/sohail.js" },
     { "src": "/ayan", "dest": "/ayan.js" },
-    { "src": "/Destiny", "dest": "/Destiny.js" },
+    { "src": "/salman", "dest": "/salman.js" },
     { "src": "/faisal", "dest": "/faisal.js" }
   ]
 }
