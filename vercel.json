@@ -4,7 +4,7 @@
     { "src": "*.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/majeed1", "dest": "/majeed1.js" },
+    { "src": "/ayan", "dest": "/ayan.js" },
     { "src": "/tufique", "dest": "/tufique.js" },
     { "src": "/tufaill", "dest": "/tufaill.js" },
     { "src": "/ssgx", "dest": "/ssgx.js" },
